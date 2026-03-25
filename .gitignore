@@ -1,0 +1,25 @@
+# dependências Node.js e build do web
+linky-web/node_modules/
+linky-web/dist/
+linky-web/dist-ssr/
+*.local
+
+# dependências e builds do .NET (C#)
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+Linky.sln.DotSettings.user
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Banco de dados temporário (estudos)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3

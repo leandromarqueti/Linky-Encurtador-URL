@@ -1,0 +1,18 @@
+  Determinando os projetos a serem restaurados...
+  Todos os projetos estão atualizados para restauração.
+  Linky.Domain -> C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Domain\bin\Debug\net9.0\Linky.Domain.dll
+  Linky.Application -> C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Application\bin\Debug\net9.0\Linky.Application.dll
+  Linky.Infrastructure -> C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Infrastructure\bin\Debug\net9.0\Linky.Infrastructure.dll
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(10,18): error CS1061: ‘IServiceCollection’ não contém uma definição para "AddSwaggerGen" e não foi possível encontrar nenhum método de extensão "AddSwaggerGen" que aceite um primeiro argumento do tipo ‘IServiceCollection’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(30,9): error CS1061: ‘WebApplication’ não contém uma definição para "UseSwagger" e não foi possível encontrar nenhum método de extensão "UseSwagger" que aceite um primeiro argumento do tipo ‘WebApplication’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(31,9): error CS1061: ‘WebApplication’ não contém uma definição para "UseSwaggerUI" e não foi possível encontrar nenhum método de extensão "UseSwaggerUI" que aceite um primeiro argumento do tipo ‘WebApplication’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+
+FALHA da compilação.
+
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(10,18): error CS1061: ‘IServiceCollection’ não contém uma definição para "AddSwaggerGen" e não foi possível encontrar nenhum método de extensão "AddSwaggerGen" que aceite um primeiro argumento do tipo ‘IServiceCollection’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(30,9): error CS1061: ‘WebApplication’ não contém uma definição para "UseSwagger" e não foi possível encontrar nenhum método de extensão "UseSwagger" que aceite um primeiro argumento do tipo ‘WebApplication’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Program.cs(31,9): error CS1061: ‘WebApplication’ não contém uma definição para "UseSwaggerUI" e não foi possível encontrar nenhum método de extensão "UseSwaggerUI" que aceite um primeiro argumento do tipo ‘WebApplication’ (você está se esquecendo de usar uma diretiva ou uma referência de assembly?) [C:\Users\leand\Desktop\Estudos\NLW Operator\Encurtador de URL\Linky\Linky.Api\Linky.Api.csproj]
+    0 Aviso(s)
+    3 Erro(s)
+
+Tempo Decorrido 00:00:00.97
