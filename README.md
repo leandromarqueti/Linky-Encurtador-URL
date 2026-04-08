@@ -23,6 +23,10 @@ Este projeto se destaca por utilizar padrões profissionais de mercado:
 - Configuração e uso do Entity Framework Core com provedor SQLite para testes em ambiente de desenvolvimento.
 - Conexão e consumo de APIs C# a partir de uma aplicação React utilizando Axios.
 
+## Entrada/Saída
+- Entrada: "https://superlongurl.com/abc123"
+- Saída: "linky.com/abc123"
+  
 ## Como executar
 
 1. **Back-end:**
